@@ -59,13 +59,12 @@
 
 ## 完成情况小结
 
-郎秀心：PersonActivity用户信息与修改、LoginActivity登录注册、FinanceFragment财务统计、Sweet-alert-dialog对话框库、图标搜集
+PersonActivity用户信息与修改、LoginActivity登录注册、FinanceFragment财务统计、Sweet-alert-dialog对话框库、图标搜集
 
-胡伶华：RecycleView账单列表、RecordActivity添加账单、修改/删除账单、Linear-time-picker日期时间选择器库、环境测试
+RecycleView账单列表、RecordActivity添加账单、修改/删除账单、Linear-time-picker日期时间选择器库、环境测试
 
-王鑫益：GitHub版本控制、RecycleView滑动手势、Fragment碎片化、GridLayout单选网格布局、PHP后端、Sync云同步、Sqlite数据库、好友分享、SettingsActivity设置、Amap高德地图
+GitHub版本控制、RecycleView滑动手势、Fragment碎片化、GridLayout单选网格布局、PHP后端、Sync云同步、Sqlite数据库、好友分享、SettingsActivity设置、Amap高德地图
 
-Git地址：https://github.com/MRXY001/Poorrow/
 
 未完成：数据预测、高德地图
 
@@ -365,15 +364,6 @@ sweet-dialog 对话框：非常的圆润嘿嘿嘿
 
  
 
- 
-
-## 小组工作情况
-
-王鑫益：总体框架结构、UI、UX设计，50%
-
-郎秀心：用户模块，25%
-
-胡伶华：账单模块，25%
 
  
 
